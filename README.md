@@ -9,59 +9,31 @@
 
    ![2024-07-04_19-07-59](https://github.com/aolesik/SQL/assets/125824182/5700bd44-31f6-4add-aa6b-a421f7ad812b)
 
-2. Вывод имени и фамилии всех сотрудников, отсортированных от младших к старшим
+2. Вывод списка уникальных городов, в названии которых есть буква 'м'
 
-    <img width="600" alt="image (4)" src="https://user-images.githubusercontent.com/44261093/220357948-a53f3ddc-48d5-45c7-8128-8c65ac3af9e0.png">
+   ![2024-07-04_19-55-40](https://github.com/aolesik/SQL/assets/125824182/c3fa10e5-1e8c-4165-a97e-d5e31d1b7dd8)
 
-3. Вывод возраста всех сотрудников с профессией 'qa_engineer'
+3. Вывод id клиентов, у которых в заказе от 50 до 100 ед. товара
 
-    <img width="600" alt="image (5)" src="https://user-images.githubusercontent.com/44261093/220358616-80b19602-6ddd-47df-b477-c52888c8175d.png">
+   ![2024-07-04_20-07-08](https://github.com/aolesik/SQL/assets/125824182/adffab78-d45a-4d96-8314-605a1af6ceb2)
 
-4. Вывод имени и фамилии всех 'frontend_dev' с лимитом строк в 20
+4. Вывод списка наименований товаров, начинающихся с буквы 'C', и категорию, к которой они относятся
     
-    <img width="600" alt="image (6)" src="https://user-images.githubusercontent.com/44261093/220358895-e847dcc7-87ee-406c-b363-3c499c03dbcb.png">
+   ![2024-07-04_23-08-41](https://github.com/aolesik/SQL/assets/125824182/9416c3d7-5110-4c9b-b195-7c14a55de0e5)
 
-5. Вывод компьютера у сотрудника Анастасии Морозовой
+5. Вывод имени и фамилии сотрудников, которые занимались заказами, отправленными транспортной компанией №3
 
-    <img width="600" alt="image (7)" src="https://user-images.githubusercontent.com/44261093/220359167-5bb1aafa-bee2-4fd4-b92d-271ed4b30736.png">
+   ![2024-07-04_23-40-37](https://github.com/aolesik/SQL/assets/125824182/fc428d31-a877-461a-ac0d-5565d5ba7fe8)
 
-6. Сколько в компании всего сотрудников работает в Москве
+6. Средняя стоимость товаров категории "Condiments"
     
-    <img width="600" alt="image (8)" src="https://user-images.githubusercontent.com/44261093/220359520-90b150b6-4227-48c0-a638-2495c21a2173.png">
+   ![2024-07-04_23-48-21](https://github.com/aolesik/SQL/assets/125824182/d28abd8e-f75d-41ac-928a-8ecb72ac6fa3)
 
-7. Какая зарплата у каждого сотрудника
+7. Вывод id, наименования и цены товара, отсортированные от самой низкой стоимости до самой высокой
 
-    <img width="600" alt="image (9)" src="https://user-images.githubusercontent.com/44261093/220359734-0e684059-3879-46d6-8d29-f6ef76ab1293.png">
+   ![2024-07-04_23-54-47](https://github.com/aolesik/SQL/assets/125824182/652fa86c-1009-49c1-bf6b-724f2173e9ef)
 
-8. Какая общая зарплата всех сотрудников, которые работают в Москве
+8. Вывод id и наименований товаров вместе с категорией, к которой они относятся
 
-    <img width="600" alt="image (10)" src="https://user-images.githubusercontent.com/44261093/220360066-59844c69-cf55-4e88-9d22-057cf5589fd8.png">
+   ![2024-07-05_00-11-55](https://github.com/aolesik/SQL/assets/125824182/422bee48-ee38-4491-bb9a-9aae327cbc53)
 
-9. Вывод суммы зарплат, разбитые по городам.
-
-    <img width="600" alt="image (11)" src="https://user-images.githubusercontent.com/44261093/220360276-3c16c9e5-5c92-4314-a874-cb038d82f67d.png">
-
-10. Вывод списока уникальных городов, где есть сотрудники.
-
-    <img width="600" alt="image (12)" src="https://user-images.githubusercontent.com/44261093/220360504-fe3f79bf-1418-4c87-af0a-f00c2f2c7a42.png">
-
-11. Вывод названия должностей, у которых зарплата между 1500 и 2200.
-
-    <img width="600" alt="image (13)" src="https://user-images.githubusercontent.com/44261093/220360715-fb48f9b0-4936-478b-b185-d7f2ee56e230.png">
-
-12. Вывод списка уникальных городов, где в названии есть буква k.
-
-    <img width="600" alt="image (14)" src="https://user-images.githubusercontent.com/44261093/220384541-e18f7152-287e-43aa-9466-8140a54ddae4.png">
-
-13. Вывод Имени и Фамилиии каждого сотрудника вместе с их Должностью.
-
-    <img width="600" alt="image (15)" src="https://user-images.githubusercontent.com/44261093/220384742-42ceaf02-7af9-4655-8a4d-129890db64aa.png">
-
-14. Вывод количества товаров, у которых нет отзывов.
-
-    <img width="600" alt="image (16)" src="https://user-images.githubusercontent.com/44261093/220385053-26b16395-b7a1-4116-9f22-aa92809364b8.png">
-    <img width="600" alt="image (17)" src="https://user-images.githubusercontent.com/44261093/220385084-e1dc62d9-f053-4b39-bfb6-8417b61b95a7.png">
-
-15. Вывод количества заказов, для которых Налог между 2 и 5, включая границы (то есть 2 и 5 включительно).
-
-    <img width="600" alt="image (18)" src="https://user-images.githubusercontent.com/44261093/220385203-05a6ae5b-4e7a-424a-8f45-9829cdabde05.png">
