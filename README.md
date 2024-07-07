@@ -1,4 +1,4 @@
-# 📚 SQL Queries
+# SQL Queries
 
 Мои запросы в базу с помощью The Try-SQL Editor от w3schools.com
 
